@@ -3,7 +3,6 @@ import {
     setupEvents,
     appendPartnersElements,
 } from './utils.js';
-
 import { setupModal } from './modal.js';
 
 document.onload = (() => {
