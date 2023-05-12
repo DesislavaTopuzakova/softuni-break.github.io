@@ -4,7 +4,6 @@ import { isStartedYet } from './controls.js';
 
 const { closeButton, form, modalOverlay, modal, suggestions } = elements.modal;
 let { time, minutes, seconds } = elements.time;
-
 export function setupModal() {
     closeButton().addEventListener("click", toggleModal);
     time().addEventListener("click", toggleModal);
