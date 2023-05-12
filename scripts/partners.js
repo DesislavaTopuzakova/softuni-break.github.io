@@ -10,5 +10,5 @@ export const partners = [
   { src: "./public/partners/dxc.png", name: "DXC Technology" },
   { src: "./public/partners/createx.png", name: "CreateX" },
   { src: "./public/partners/ambitioned.png", name: "Ambitioned" },
-  { src: "./public/partners/bosch.png", name: "Bosch Digital" },
+  { src: "./public/partners/bosch.png", name: "Bosch Digital" }
 ];
