@@ -3,7 +3,6 @@
 @import url('./site-header.css');
 @import url('./main-content.css');
 @import url('./responsive.css');
-
 html {
     scroll-behavior: smooth;
 }
