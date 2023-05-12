@@ -4,7 +4,6 @@
     --partners-count: 11;
 }
 
-
 @keyframes scroll {
     0% {
         transform: translateX(0);
