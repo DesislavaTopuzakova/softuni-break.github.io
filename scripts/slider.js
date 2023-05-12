@@ -12,7 +12,6 @@ export const slider = {
         partnerTitleWrapper.appendChild(partnerTitle);
         partnerWrapper.appendChild(partnerLogoWrapper);
         partnerWrapper.appendChild(partnerTitleWrapper);
-
         elements.slider.partnersWrapper().appendChild(partnerWrapper);
     },
 };
