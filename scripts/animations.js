@@ -1,5 +1,4 @@
 import { elements } from './elements.js';
-
 import {
     formatTimeContent,
     getMinutesToSet,
